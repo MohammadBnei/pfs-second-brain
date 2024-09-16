@@ -1,0 +1,3 @@
+- [List of CBs](https://docs.adyen.com/development-resources/testing/test-card-numbers/#cartes-bancaires)
+- in test env (important of course)
+- 
