@@ -1,21 +1,5 @@
 `back-connectivity/clients/touropapi/operation_post.go`
 
-- [[#`postInternal`|`postInternal`]]
-	- [[#`postInternal`#Context Setup and Validation|Context Setup and Validation]]
-	- [[#`postInternal`#Pre-Update Hooks for Tourop Collections|Pre-Update Hooks for Tourop Collections]]
-	- [[#`postInternal`#Document Update and Insert Logic|Document Update and Insert Logic]]
-	- [[#`postInternal`#Document Insert Logic|Document Insert Logic]]
-	- [[#`postInternal`#Notification and Hook Logic|Notification and Hook Logic]]
-	- [[#`postInternal`#Post-Update Hook Logic|Post-Update Hook Logic]]
-	- [[#`postInternal`#Return New Object|Return New Object]]
-- [[#`touropPropertyReferencePreUpdateHook`|`touropPropertyReferencePreUpdateHook`]]
-	- [[#`touropPropertyReferencePreUpdateHook`#Property Reference Pre-Update Hook|Property Reference Pre-Update Hook]]
-	- [[#`touropPropertyReferencePreUpdateHook`#Data Unmarshalling|Data Unmarshalling]]
-	- [[#`touropPropertyReferencePreUpdateHook`#Building Places With Parent Field|Building Places With Parent Field]]
-	- [[#`touropPropertyReferencePreUpdateHook`#Updating Property Reference|Updating Property Reference]]
-	- [[#`touropPropertyReferencePreUpdateHook`#Returning Updated JSON|Returning Updated JSON]]
-
-
 ## `postInternal`
 ### Context Setup and Validation
 
