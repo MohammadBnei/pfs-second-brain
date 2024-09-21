@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/TouropDB PostInternal.md",
+                "file": "Research/Dump Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/TouropDB PostInternal.md",
+                "file": "Research/Dump Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/TouropDB PostInternal.md",
+                "file": "Research/Dump Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/TouropDB PostInternal.md"
+                "file": "Research/Dump Context.md"
               }
             }
           }
@@ -192,19 +192,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "cbb31a25cd0671ca",
   "lastOpenFiles": [
+    "Research/Amadeus Cache Generation.md",
+    "Research/Dump Context.md",
+    "Research/ConnectivityContext.md",
+    "Research/Booking Process.md",
+    "Research/Book.md",
+    "Untitled.md",
     "Research/TouropDB PostInternal.md",
+    "Research/Prebook.md",
+    "Proposition/DumpContext Research.md",
+    "Proposition/DumpContext SQS.md",
+    "Excalidraw/17-09-24 16.19.excalidraw.md",
+    "Excalidraw",
+    "Proposition",
     "Functionning Documentation/Initial Package Infos.md",
     "Functionning Documentation",
     "Error On.md",
-    "Research/Amadeus Cache Generation.md",
-    "Research/Book.md",
-    "Research/ConnectivityContext.md",
-    "Research/Prebook.md",
     "HowTo/do a test book.md",
     "Research",
     "HowTo"
